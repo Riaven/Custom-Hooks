@@ -1,15 +1,6 @@
-# useForm Hook
+
+# Notas
 
 > 14-04-2021
 
-
->Ejemplo de uso
-```
-    const inicialForm = {
-        name: '',
-        age: 0,
-        email, ''
-    }
-    const [ formValues, handleInputChange, reset ] = useForm( inicialForm );
-```
-
+Repositorio que contiene varios `customHooks` realizados en curso React
