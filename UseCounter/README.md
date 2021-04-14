@@ -1,5 +1,12 @@
-# Notas
+# useCounter Hook
 
 > 14-04-2021
 
-Repositorio que contiene varios `customHooks` realizados en curso React
+
+>Ejemplo de uso
+```
+    const { counter, increment, decrement, reset } = useCounter( 10 );
+
+```
+
+`useCounter()` recibe un valor por defecto
